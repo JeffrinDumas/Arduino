@@ -32,8 +32,16 @@ delay(200);
 
 After you put this in codebender you have to check which port you put the arduino in you can see that at the top of the screen in codebender.
 
-Then get the [Unity Code]()
+Then get the [Unity Code](https://github.com/JeffrinDumas/Arduino/blob/master/Assets/Arduino.cs)
 
 put this in a unity projects script.
 
+Check the COM.
+If the Number behind COM is different than yours, then you have to change it to yours.
+
 Makes sure the script names match.
+
+Put the script on an 3d object and start the scene.
+
+Controll with the joystick and enjoy.
+
